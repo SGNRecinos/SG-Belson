@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBTtGJjMgfoPynCyGuLlfv2ehcgXOsNy9e8MiJqQVcKseOhU)
+
+}
+h1{border-style: solid;}
+h1 {
+    background-color:white;
+    width: 300px;
+    border: 25px solid red;
+    padding: 25px;
+    margin: 25px;
+    background-repeat:no-repeat;
+}
+h1{color:darkblue}
